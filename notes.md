@@ -6,3 +6,28 @@
 1. HTML element (no indicator needed)
 2. Class (use . as indicator)
 3. ID (use # as indicator)
+
+## Semantic HTML Elements
+
+- Header
+- Nav
+- Main
+- Section
+- Article
+- Aside
+- Footer
+- Figure
+
+## README 
+
+1. Description of your app
+2. Link to your deployed app
+3. Screenshot of your deployed app
+
+## To do
+- Finish using semantic HTML ELements
+- Finish consolidating CSS
+- Comment Code
+- Work on README
+- Make sure CSS in in sequential order
+- Make sure Headers are in in sequential order
