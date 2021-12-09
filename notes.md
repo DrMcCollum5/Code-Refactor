@@ -25,9 +25,5 @@
 3. Screenshot of your deployed app
 
 ## To do
-- Finish using semantic HTML ELements
-- Finish consolidating CSS
-- Comment Code
+
 - Work on README
-- Make sure CSS in in sequential order
-- Make sure Headers are in in sequential order
